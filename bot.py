@@ -13,7 +13,7 @@
   • Datamuse        — синонимы (https://www.datamuse.com/api/)
 
 Запуск:
-  export BOT_TOKEN="123456:ABC..."   # токен от @BotFather
+  export BOT_TOKEN="7896875477:AAGSbG3rgEwBMJog-8OgIy6PZFti4gU0rFM"   # токен от @BotFather
   python bot.py
 """
 
